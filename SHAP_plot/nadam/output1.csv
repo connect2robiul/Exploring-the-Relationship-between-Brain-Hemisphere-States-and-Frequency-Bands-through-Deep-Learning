@@ -1,0 +1,7 @@
+,Top Feature,Top Feature Value,Time for Top Feature,SHAP Time,Name
+0,Feature 1000,1.9042718569513615,4.0,1135.3618578910828,nadam_beta_Necker cube
+1,Feature 996,3.609372310923374,3.984,1107.8051781654358,nadam_alpha_Necker cube
+2,Feature 12141,-6.644624622219129,48.564,1103.9364285469055,nadam_theta_Necker cube
+3,Feature 9970,-2.9739964512924275,39.88,1109.971678495407,nadam_theta_Mona Lisa
+4,Feature 1591,-1.3828606863320871,6.364,1103.5084624290466,nadam_beta_Mona Lisa
+5,Feature 9890,-2.188973710890804,39.56,1102.102353811264,nadam_delta_Necker cube

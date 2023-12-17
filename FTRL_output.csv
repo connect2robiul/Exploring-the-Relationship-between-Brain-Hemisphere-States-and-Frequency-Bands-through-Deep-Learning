@@ -1,0 +1,11 @@
+Precision,Recall,F1-Score,Specificity,Time,ROC AUC,Most Efficient Class,signal_fiq,dataset,PreProcesstime
+0.0,0.0,0.0,0.0,13291.338923454285,0.5,right hemiparesis,delta,Mona Lisa,316.18667793273926
+0.0,0.0,0.0,0.0,18287.36700463295,0.5,right hemiparesis,theta,Mona Lisa,308.7536153793335
+0.51,1.0,0.68,1.0,8981.571734666824,0.5,left hemiparesis,alpha,Mona Lisa,319.8630123138428
+0.49,1.0,0.66,1.0,19305.13808298111,0.5,left hemiparesis,beta,Mona Lisa,311.08802795410156
+0.0,0.0,0.0,0.0,4167.440770626068,0.5,right hemiparesis,gamma,Mona Lisa,311.3888683319092
+0.54,1.0,0.7,1.0,10141.855670928955,0.5,left hemiparesis,delta,Necker cube,314.82846665382385
+0.49,1.0,0.66,1.0,23995.07584309578,0.5,left hemiparesis,theta,Necker cube,308.1583833694458
+0.51,1.0,0.68,1.0,20730.977858543396,0.5,left hemiparesis,alpha,Necker cube,307.59766459465027
+0.51,1.0,0.68,1.0,2272.850080013275,0.5,left hemiparesis,beta,Necker cube,125.30333089828491
+0.0,0.0,0.0,0.0,7979.793655157089,0.5,right hemiparesis,gamma,Necker cube,128.24718976020813

@@ -1,0 +1,2 @@
+Precision,Recall,F1-Score,Specificity,Time,ROC AUC,Most Efficient Class,signal_fiq,dataset,PreProcesstime,optimizers
+0.87,0.91,0.89,0.9126637554585153,12078.293033123016,0.8927725556953593,left hemiparesis,gamma,Mona Lisa,106.88433909416199,nadam
