@@ -1,0 +1,13 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Islam
+    given-names: Robiul
+    orcid: https://orcid.org/0000-0002-3704-8409
+title: "Exploring the Relationship between Brain Hemisphere States and Frequency Bands through Deep Learning: EEG Visual Stimuli"
+version: EEGVisualStimuli
+doi: 10.5281/zenodo.17176638
+url: https://doi.org/10.5281/zenodo.17176638
+date-released: 2025-09-22
+license: CC-BY-ND-4.0
+type: software
