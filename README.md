@@ -121,7 +121,7 @@ If you use this work, please cite the journal publication and/or the dataset:
 
 **Robiul Islam** —  Innopolis University, Russia
 🔗 [Personal site](https://connect2robiul.github.io/newversion/) · [GitHub](https://github.com/connect2robiul)
-
+A huge thanks to **Dmitry Ignatov** ([hse.ru/en/staff/dima](https://www.hse.ru/en/staff/dima/)) for his invaluable help and for covering the APC for IEEE Access — this publication would not have been possible without him.
 ---
 
 ## 📄 License
